@@ -1,6 +1,6 @@
 import React from 'react';
 
-const DeleteBtn = ({ onClick }) => {
+const DeleteBtn = ({ onClick}) => {
   return (
     <div
       style={{
